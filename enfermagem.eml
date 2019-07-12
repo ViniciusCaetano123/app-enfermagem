@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="classmate-1.0.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/classmate-1.0.0.jar!/"/>
+	</lib>
+	<lib name="commons-dbcp-1.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbcp-1.4.jar!/"/>
+	</lib>
+	<lib name="commons-logging-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.2.jar!/"/>
+	</lib>
+	<lib name="commons-pool-1.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-pool-1.6.jar!/"/>
+	</lib>
+	<lib name="jboss-logging-3.1.1.GA.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jboss-logging-3.1.1.GA.jar!/"/>
+	</lib>
+	<lib name="jstl-api-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-api-1.2.jar!/"/>
+	</lib>
+	<lib name="jstl-impl-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-impl-1.2.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.17.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/log4j-1.2.17.jar!/"/>
+	</lib>
+	<lib name="mysql-connector-java-5.1.12-bin.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.12-bin.jar!/"/>
+	</lib>
+	<lib name="slf4j-api-1.7.25.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-api-1.7.25.jar!/"/>
+	</lib>
+	<lib name="slf4j-log4j12.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/slf4j-log4j12.jar!/"/>
+	</lib>
+	<lib name="spring-aop-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-aop-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-aspects-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-aspects-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-beans-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-beans-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-context-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-context-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-core-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-core-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-expression-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-expression-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-jdbc-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-jdbc-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-web-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="spring-webmvc-5.0.4.RELEASE.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/spring-webmvc-5.0.4.RELEASE.jar!/"/>
+	</lib>
+	<lib name="hibernate-validator-6.0.12.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/hibernate-validator-6.0.12.Final.jar!/"/>
+	</lib>
+	<lib name="validation-api-2.0.1.Final.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/validation-api-2.0.1.Final.jar!/"/>
+	</lib>
+	<levels>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+	</levels>
+</component>
